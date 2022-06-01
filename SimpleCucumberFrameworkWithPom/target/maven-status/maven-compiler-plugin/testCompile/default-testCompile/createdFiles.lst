@@ -1,0 +1,4 @@
+com\training\runner\Runner.class
+com\training\steps\StepsPOM.class
+com\firebase\pages\homepages\HomePage.class
+com\firebase\pages\loginpages\LoginPage.class
